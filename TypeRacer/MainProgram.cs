@@ -8,7 +8,7 @@ using System.Diagnostics;
 
 namespace TypeRacer
 {
-    class Program
+    class MainProgram
     {
 
         static void Main(string[] args)
