@@ -1,0 +1,7 @@
+C:\Users\Mantas\Desktop\C#\TypeRacer\TypeRacer\bin\Debug\TypeRacer.exe.config
+C:\Users\Mantas\Desktop\C#\TypeRacer\TypeRacer\bin\Debug\TypeRacer.exe
+C:\Users\Mantas\Desktop\C#\TypeRacer\TypeRacer\bin\Debug\TypeRacer.pdb
+C:\Users\Mantas\Desktop\C#\TypeRacer\TypeRacer\obj\Debug\TypeRacer.csprojAssemblyReference.cache
+C:\Users\Mantas\Desktop\C#\TypeRacer\TypeRacer\obj\Debug\TypeRacer.csproj.CoreCompileInputs.cache
+C:\Users\Mantas\Desktop\C#\TypeRacer\TypeRacer\obj\Debug\TypeRacer.exe
+C:\Users\Mantas\Desktop\C#\TypeRacer\TypeRacer\obj\Debug\TypeRacer.pdb
