@@ -43,9 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Display.cs" />
     <Compile Include="Game.cs" />
+    <Compile Include="GameRules.cs" />
     <Compile Include="MainProgram.cs" />
+    <Compile Include="NotYetWrittenWord.cs" />
+    <Compile Include="PlayerInput.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Text.cs" />
+    <Compile Include="Word.cs" />
+    <Compile Include="WrittenWord.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

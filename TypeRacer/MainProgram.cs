@@ -10,7 +10,6 @@ namespace TypeRacer
 {
     class MainProgram
     {
-
         static void Main(string[] args)
         {
             String key = null;
@@ -22,6 +21,5 @@ namespace TypeRacer
 
             } while (key.Equals("y"));
         }
-
     }
 }
